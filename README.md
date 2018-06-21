@@ -23,7 +23,7 @@ If the user opens the application  he/she can go through the menu options
     This button helps to enter complete details of the agents. After completing the profile filling part click on done then this agent will be added in the list.
     
 # PROFILE
-To add agent to the list the user should enter details of the agent it includes
+To add agent to the list, user should enter details such as- 
 I.NAME
 II.LEVEL
 III.AGENCY NAME
@@ -32,7 +32,7 @@ V.COUNTRY
 VI.PHONE NUMBER
 VII.ADDRESS
 VIII.PROFILE PICTURE
-All the information provided  should be perfect because this is used to find the location of the agent using the address and can send a message to the agent using the phone number.Website it will be directed to the site of the agent
+
 
 # AGENT LIST
 User can fetch the number of agents added in the list. On long press agent line item shows a menu which contains
@@ -43,12 +43,13 @@ User can fetch the number of agents added in the list. On long press agent line 
 1.DELETE:
 This can be used to delete the agent from the list and the database
 2.PROFILE INFORMATION
-This will help to get the entire profile of the agent.It contains few more features 
-Calling ,texting,location detector, website.
+This will help to get the entire profile info of the agent, It contains few more features like-
+Calling ,Texting, Location Service & Website.
 3.MISSION
 This is used to assign a mission to the individual agent
 # SMS
-With this the user can easily communicate with the agents.Can forward a text message to the agent or any media files.if he clicks on the sms and types a message then  it will be directly forwarded to the agent through the telephone number he has provided in his profile.
+User can easily communicate with the agents, Can forward a text message to the agent or any media files.
+
 # TELECOMMUNICATION
 Communicating with the agents using telecom services like calling, texting.
 # BROWSER

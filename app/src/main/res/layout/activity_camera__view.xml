@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile"
+    android:paddingBottom="@dimen/fab_margin"
+    android:paddingTop="10dp">
+
+    <GridView
+        android:id="@+id/menu_form_gallery_list_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="20dp"
+        android:columnWidth="130dp"
+        android:choiceMode="multipleChoiceModal"
+        android:gravity="center"
+        android:textColor="#F6F6F6"
+        android:text="Guest"
+        android:textSize="20dp"
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="10dp"
+        android:layout_marginTop="40dp"
+        android:numColumns="auto_fit"
+        />
+
+
+
+</RelativeLayout>
+

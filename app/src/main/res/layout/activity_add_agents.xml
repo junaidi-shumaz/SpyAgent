@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp">
+
+
+        <ImageView
+            android:id="@+id/add_agent_imageView"
+            android:layout_gravity="center"
+            android:layout_width="200dp"
+            android:layout_height="120dp"
+            app:srcCompat="@drawable/agentfemale" />
+
+
+            <EditText
+                android:id="@+id/add_agent_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textColor="#111111"
+                android:layout_marginTop="10dp"
+                android:inputType="textPersonName"
+                android:hint="Name" />
+
+             <EditText
+                android:id="@+id/add_agent_level"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                 android:textColor="#111111"
+                 android:layout_marginTop="10dp"
+                android:inputType="number"
+                android:hint="Level"/>
+
+
+            <EditText
+                android:id="@+id/add_agent_gency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textColor="#111111"
+                android:layout_marginTop="10dp"
+                android:inputType="textPersonName"
+                android:hint="Agency Name"/>
+
+            <EditText
+                android:id="@+id/add_agent_website"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textColor="#111111"
+                android:layout_marginTop="10dp"
+                android:inputType="textPersonName"
+                android:hint="Website"/>
+
+            <EditText
+                android:id="@+id/add_agent_country"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textColor="#111111"
+                android:layout_marginTop="10dp"
+                android:inputType="textPersonName"
+                android:hint="Country"/>
+
+            <EditText
+                android:id="@+id/add_agent_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textColor="#111111"
+                android:layout_marginTop="10dp"
+                android:hint="Phone Number"
+                android:inputType="phone" />
+
+
+            <EditText
+                android:id="@+id/add_agent_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textColor="#111111"
+                android:layout_marginTop="10dp"
+                android:hint="Address"
+                android:inputType="textMultiLine" />
+
+    </LinearLayout>
+</ScrollView>

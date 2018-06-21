@@ -17,10 +17,10 @@ If the user opens the application  he/she can go through the menu options
 2.Agent add
 
 1.Agents List:
-     If user clicks on the agent list button, it redirects to the list of agents already added to the agency. Empty screen If there is no previous agents list available.
+     It redirects to the list of agents already added to the agency. Empty screen If there is no previous agents list available.
      
 2.Agents add:
-    This button helps to enter complete details of the agents. After completing the profile filling part click on done then this agent will be added in the list.
+    This button helps to enter complete details of the agents. 
     
 # PROFILE
 To add agent to the list, user should enter details such as- 

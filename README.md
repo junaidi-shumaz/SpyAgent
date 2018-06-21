@@ -9,9 +9,11 @@ Agency is the capacity of an actor to act in a given environment. The capacity t
   Android API 27
   SQL-Lite
   Android Studio
+
+# Feel of an application 
+![Screenshot1](Screen1.png) ![Screenshot2](Screen2.png) ![Screenshot3](Screen3.png) ![Screen4](Screen4.png) ![Screen5](Screen5.png) ![Screen6](Screen6.png) ![Screen7](Screen7.png) ![Screen8](Screen8.png)
   
-  
-# MAIN SCENE
+# Main Screen
 If the user opens the application  he/she can go through the menu options
 1.Agents List
 2.Agent add
@@ -22,7 +24,7 @@ If the user opens the application  he/she can go through the menu options
 2.Agents add:
     This button helps to enter complete details of the agents. 
     
-# PROFILE
+# Profile
 To add agent to the list, user should enter details such as- 
 I.NAME
 II.LEVEL
@@ -34,7 +36,7 @@ VII.ADDRESS
 VIII.PROFILE PICTURE
 
 
-# AGENT LIST
+# Agent List
 User can fetch the number of agents added in the list. On long press agent line item shows a menu which contains
 1.DELETE
 2.PROFILE INFORMATION
@@ -50,9 +52,9 @@ This is used to assign a mission to the individual agent
 # SMS
 User can easily communicate with the agents, Can forward a text message to the agent or any media files.
 
-# TELECOMMUNICATION
+# Telecommunication
 Communicating with the agents using telecom services like calling, texting.
-# BROWSER
+# Browser
 This browser helps to connect with the website stated in the profile.
 
 

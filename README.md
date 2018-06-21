@@ -11,7 +11,7 @@ Agency is the capacity of an actor to act in a given environment. The capacity t
   Android Studio
 
 # Feel of an application 
-![Screenshot1](Screen1.png) ![Screenshot2](Screen2.png) ![Screenshot3](Screen3.png) ![Screen4](Screen4.png) ![Screen5](Screen5.png) ![Screen6](Screen6.png) ![Screen7](Screen7.png) ![Screen8](Screen8.png)
+![Screenshot1](Screen1.png) ![Screenshot](Screen3.png) ![Screenshot](Screen5.png) ![Screen](Screen6.png) ![Screen](Screen7.png) ![Screen](Screen2.png) ![Screen](Screen4.png) ![Screen8](Screen8.png)
   
 # Main Screen
 If the user opens the application  he/she can go through the menu options
